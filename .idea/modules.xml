@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/DesafioStream/DesafioStream.iml" filepath="$PROJECT_DIR$/DesafioStream/DesafioStream.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Exercicios-StreamAPI-DIO.iml" filepath="$PROJECT_DIR$/.idea/Exercicios-StreamAPI-DIO.iml" />
     </modules>
   </component>
